@@ -1,0 +1,28 @@
+name: WoodenStone
+favicon: null
+layout_spectrum: 0.5547685704659671
+typography_spectrum: 0.5333834383636713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8312448626384139
+  lightness: 0.36414885334670544
+  saturation: 0.5961301103234291
+  rhythmicContrast: 0.05565933627076447
+purpose: []
